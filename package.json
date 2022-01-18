@@ -1,0 +1,16 @@
+{
+  "name": "sunnysideagency",
+  "version": "1.0.0",
+  "description": "![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://jearldev.github.io/sunnysideagency",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
