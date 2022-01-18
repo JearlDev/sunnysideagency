@@ -458,7 +458,7 @@ footer h3 {
 /* Medium devices (tablets, less than 992px) */
 @media (max-width: 991.98px) {
   .navWrapper {
-    padding: 0 3em;
+    padding: 0 2.5em;
   }
 
   .container {
